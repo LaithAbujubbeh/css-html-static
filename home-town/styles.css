@@ -36,7 +36,9 @@ img {
 }
 
 .hero-title {
-  background-color: #1d3557;
+  background-color: #eed8b8;
+  color: #000;
+
   width: 225px;
   padding: 5px;
   font-family: inherit;
@@ -46,8 +48,10 @@ img {
 }
 
 .hero-info {
-  background-color: #457b9d;
+  background-color: #b85741;
   width: 412px;
+  color: #333333;
+  font-weight: 700;
   font-family: "Open Sans", sans-serif;
   border-radius: 10px;
   padding: 5px 15px;
